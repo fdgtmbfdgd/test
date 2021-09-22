@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=9a354da8-e593-49d6-afe5-eeb3240421b4
+AUUID=e46727a3-b9c0-4c1f-813a-eadb8ec600ea
 CADDYIndexPage=https://raw.githubusercontent.com/lkjuyhjt/heroku-CADDYIndexPage/main/amazon/index.html
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
